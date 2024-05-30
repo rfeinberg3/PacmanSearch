@@ -1,6 +1,6 @@
 # Pacman Search Project
 
-
+![Search Snippet](maze.png)
 
 ## Introduction
 
