@@ -16,8 +16,6 @@ python autograder.py
 This program need python version 3.6 to run. This is available on Windows (and possibly Linux), but not Mac. See `requirements.txt`.
 
 ## Skills Developed
-
-## Skills Developed
 - **Search Algorithms**: Implemented and applied DFS, BFS, UCS, and A* Search in Python.
 - **Algorithm Optimization**: Created efficient, admissible, and consistent heuristics for A* Search.
 - **State Management**: Encoded and managed relevant state information for effective problem-solving.
